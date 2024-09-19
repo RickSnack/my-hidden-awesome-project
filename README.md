@@ -1,6 +1,6 @@
 # my-hidden-awesome-project
 
-![Mijn foto](Pica.jpg)
+![Mijn foto](img/Pica.jpg)
 
 # De link naar mijn Github pagina
 
